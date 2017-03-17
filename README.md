@@ -21,8 +21,3 @@ $ pod install
 
 
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
-
